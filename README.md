@@ -2,6 +2,7 @@
 🏻 My name is <b>Mohammad Ali Sheikhi</b>, I'm 22 years old, 🇮🇷 <b>Iran</b> graduated in software engineering and I'm also a <b>Back-End</b> Developer C# passionate about technology, music and games.</p>
 
 👨🏻‍💻 I currently work remotely as a Junior <b>Back-End</b> Developer.
+<b>I am originally from Bushehr province, Barazjan city</b>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
